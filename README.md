@@ -6,7 +6,7 @@ I love turning ideas into clean, secure, and intelligent solutions.
 
 ---
 
-- 👀 Interested in **Web Development (Full-Stack)**, **Cybersecurity**, and **AI/ML**  
+- 👀 Interested in **Software Development (Full-Stack)**, **Cybersecurity**, and **AI/ML**  
 - 🌱 Currently learning **Laravel & Modern Web Stacks**, **ethical hacking fundamentals**, and **machine learning workflows**  
 - 💞️ Looking to collaborate on **open-source web apps**, **security tools**, or **AI experiments**  
 - 📫 Reach me at **mkevinrinaldi@gmail.com** · [LinkedIn](https://www.linkedin.com/in/mkevinrinaldi)  
