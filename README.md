@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **M. Kevin Rinaldi** ([@kevnrnldi](https://github.com/kevnrnldi))  
+I'm **M. Kevin Rinaldi** 
 Passionate about **Full-Stack Development**, **Cybersecurity**, and **Artificial Intelligence**.  
 I love turning ideas into clean, secure, and intelligent solutions.
 
